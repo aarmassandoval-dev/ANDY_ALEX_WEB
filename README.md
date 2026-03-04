@@ -25,16 +25,15 @@
 
 <section id="nosotros">
     <h2>Sobre Nosotros</h2>
-    <p>¡Hola! Somos Andy y Alex, estudiantes y practicantes de mecánica. Esta web es nuestro espacio para compartir nuestra experiencia aprendiendo y trabajando con motores, herramientas y todo lo relacionado con la fascinante industria de la mecánica.</p>
+    <p>hola somos ANDY Y ALEX  somos estudiantes de mecanizado y hemos creado esta pagina con el fin de poder enseñar y compartir nuestra experiencia perosnal en base a lo que hemos aprendido a lo largo de estos años de estudio yen practicas en tallere mecanicos e oficina tecnica</p>
     <p>Queremos mostrar que ser mecánico no es solo arreglar coches: es pasión, esfuerzo y aprendizaje constante. También buscamos inspirar a otros estudiantes que quieren aprender haciendo.</p>
 </section>
 
 <section id="experiencia">
     <h2>Nuestra Experiencia</h2>
-    <p>En el aula aprendemos la teoría: motores, frenos, electricidad automotriz y diagnóstico de fallas. Cada día que pasa, entendemos mejor que la práctica es la que hace la diferencia.</p>
-    <p>En las prácticas, nos enfrentamos a la realidad: manos manchadas de aceite, herramientas, coches que no arrancan y la satisfacción de repararlos. Cada error es un aprendizaje y cada coche reparado nos motiva a seguir creciendo.</p>
-    <p>Trabajar juntos nos ha enseñado la importancia del trabajo en equipo: ayudarnos, enseñar lo que sabemos y aprender de los demás.</p>
-</section>
+    <p>ANDY :
+     En mi caso me dirijeron a un taller mecanico de montaje donde pude aprender mnuchas cosas sobre el emsbale de piezas , el compañerismo y el trabajo en grupo era abundante , no obstante habia gente que no se llevaban del todo bien por cuestiones personales pero puedo decir que habia buen hmabiente , en base al trabajo siempre hice todo lo mejor que pude y tratando de ser lo mas eficiente , mi jefe de taller era muy amable y siempre resolvia mis dudas , no hacia mitrabajo simplemnte me explicaba ccomo tenia que hacerlo , fue una gran experiencia lavoral.
+ 
 
 <section id="etica">
     <h2>Ética en la Formación de Estudiantes de Mecánica</h2>
